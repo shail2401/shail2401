@@ -29,11 +29,10 @@
 
 ## Feel free to connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailee-c-b71b1421b/)
-
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-E4405F?logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Mail](https://img.shields.io/badge/Mail-contact-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 
 <!--
