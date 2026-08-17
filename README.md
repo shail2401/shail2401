@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="YOUR_IMAGE_URL" width="320">
 
-# Heyy 👋, I'm Your Name
+# Heyy 👋, I'm Shailee
 
-### I'm an XR Developer and a Frontend Dev.
+
 
 </div>
 
