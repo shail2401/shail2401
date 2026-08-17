@@ -11,8 +11,8 @@
 
 - 💻 SDE @ Cognizant
 - 🔭 I'm currently working on ReactJS
-- 🌱 I'm currently learning ** NodeJS and ReactJS**
-- 🤝 I'm looking to collaborate on ** Fullstack projects**
+- 🌱 I'm currently learning **NodeJS and ReactJS**
+- 🤝 I'm looking to collaborate on **Fullstack projects**
 
 ## My Tech Stack
 
