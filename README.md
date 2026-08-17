@@ -44,11 +44,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Mail](https://img.shields.io/badge/Mail-contact-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<h2>My Contributions</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shail2401/shail2401/output/github-snake.svg">
+
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+      alt="GitHub contribution snake"
+      width="100%"
+    />
+  </picture>
 </p>
+
+
 <!--
 **shail2401/shail2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
