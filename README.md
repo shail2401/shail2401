@@ -50,14 +50,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/shail2401/shail2401/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/shail2401/shail2401/output/github-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/shail2401/shail2401/output/github-snake.svg"
       alt="GitHub contribution snake"
       width="100%"
     />
